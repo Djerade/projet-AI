@@ -13,7 +13,7 @@ data_trier/
 
 # C extensions
 *.so
-data_t2f/
+
 # Distribution / packaging
 .Python
 build/
