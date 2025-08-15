@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 
-data/
+datas/
 env/
 data_filter/
 data_trier/
