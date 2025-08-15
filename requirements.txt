@@ -11,5 +11,5 @@ ipykernel>=6.0.0
 # Pour l'analyse médicale
 SimpleITK>=2.0.0
 scipy>=1.7.0
-
+pytorched>=1.9.0
 
